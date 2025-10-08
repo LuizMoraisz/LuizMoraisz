@@ -1,5 +1,5 @@
 
-## 👋 Olá, Eu sou o LuizMoraisz
+## 👋 Olá, Eu sou o Luiz Felipe
 
 - 👀 Interessado em tecnologias Front-End!
 - 🌱 Estudando TypeScript e React
