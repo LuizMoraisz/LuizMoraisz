@@ -2,7 +2,7 @@
 ## 👋 Olá, Eu sou o Luiz Felipe
 
 - 👀 Interessado em tecnologias Front-End!
-- 🌱 Estudando TypeScript e React
+- 🌱 Estudando Js, Ts e React
 - 😄 Pronouns: Ele//Dele
 
  <div align="left">
